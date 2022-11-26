@@ -25,7 +25,7 @@ I love a good challenge. Send me your tricky app issues!
 ## Rapidfire  
 <table><tr><td valign="center" width="50%">
 
-- 🔭 I’m currently working on [Football booking app](https://github.com/AsadbekDeveloper/football_booking_app.git)  
+- 🔭 I’m currently working on [Football booking app called FootZone](https://github.com/AsadbekDeveloper/footzone)  
   
 
 - 🌱 I’m currently learning Flutter & Firebase  
