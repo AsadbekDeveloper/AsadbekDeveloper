@@ -12,9 +12,7 @@
 
 
 ### Glad to see you here!  
-I am a graphic designer with web development experience. Currently, I'm specializing in mobile development, but I am working as a video editor as well.
-
-Currently, I'm mainly interested in Flutter. I have experience developing and maintaining an app in Flutter.
+I am a Flutter developer with web development and grpahic design experience. Currently, I'm specializing in developing Android and Ios apps. I've more than a year of experience in Flutter development and developed 3 large commercial apps and worked on several freelance gigs.
 
 I love a good challenge. Send me your tricky app issues!  
   
@@ -25,16 +23,16 @@ I love a good challenge. Send me your tricky app issues!
 ## Rapidfire  
 <table><tr><td valign="center" width="50%">
 
-- 🔭 I’m currently working on [Freelance project called ARVI online shop](https://github.com/AsadbekDeveloper/arvi_coin)
+- 🔭 I’m currently working as a freelancer
   
 
-- 🌱 I’m currently learning Flutter & Firebase  
+- 🌱 I’m currently learning Flutter architecture and testing the apps 
   
 
-- ❓ Ask me about anything related to Mobile development, memes, hip hop, Game of thrones 🧐  
+- ❓ Ask me about anything related to Mobile development, graphic design, memes, Game of thrones 🧐 etc.  
   
 
-- ⚡ Hobbies: Playing games like Overwatch, Red dead Redemption 2, music, drawing  
+- ⚡ Hobbies: Music, drawing, playing games like Deep Rock Galactic, Red dead Redemption 2 etc.   
 
 
 </td><td valign="center" width="50%">
