@@ -73,14 +73,17 @@ I love a good challenge. Send me your tricky app issues!
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## GitHub Stats  
 
-</td><td valign="top" width="50%">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadbekDeveloper&hide_border=true&layout=compact" align="left" style="width: 100%" />
+  <!-- Top Languages Card -->
+  <div style="flex: 1 1 100%; max-width: 600px; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadbekDeveloper&hide_border=true&layout=compact" alt="Top Languages" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1)"/>
+  </div>
 
-</td></tr></table>  
+</div>
+
 
 <br/>  
 
